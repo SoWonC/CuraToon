@@ -1,3 +1,13 @@
+## 📌 프로젝트 소개
+
+> 이 프로젝트는 팀 프로젝트 **큐레이툰(CuraToon)**의 일부를 개인 저장소에 옮겨와 정리한 것입니다.  
+> 원본 그룹 저장소: [k-webtoon](https://github.com/k-webtoon)  
+> - 프론트엔드: [k-webtoon-frontend](https://github.com/k-webtoon/k-webtoon-frontend)  
+> - 백엔드: [k-webtoon-backend](https://github.com/k-webtoon/k-webtoon-backend)  
+>   
+> 본 레포지토리는 제가 직접 참여했던 코드와 문서를 아카이빙하고, 개인 학습/포트폴리오 용도로 재구성한 버전입니다.
+
+
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎨 큐레이툰 (CuraToon) </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 큐레이툰(Curation+Webtoon)은 당신의 취향을 읽는 AI 기반 웹툰 추천 플랫폼입니다.</div> 
